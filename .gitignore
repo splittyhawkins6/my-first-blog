@@ -1,0 +1,12 @@
+'''
+These are the files git should not update and ignore
+'''
+
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
